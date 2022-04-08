@@ -19,19 +19,19 @@ AnimationClip:
   m_FloatCurves: []
   m_PPtrCurves:
   - curve:
-    - time: 0
+    - time: 0.016666668
       value: {fileID: 2775047468396450243, guid: 5927f9ecadab8f84dae9bcff3957617c, type: 3}
     - time: 0.16666667
       value: {fileID: 856490990967569262, guid: 5927f9ecadab8f84dae9bcff3957617c, type: 3}
-    - time: 0.33333334
+    - time: 0.35
       value: {fileID: 144210385311242960, guid: 5927f9ecadab8f84dae9bcff3957617c, type: 3}
     - time: 0.5
       value: {fileID: 4793917800947698243, guid: 5927f9ecadab8f84dae9bcff3957617c, type: 3}
-    - time: 0.6666667
+    - time: 0.68333334
       value: {fileID: 4216282827056636482, guid: 5927f9ecadab8f84dae9bcff3957617c, type: 3}
     - time: 0.8333333
       value: {fileID: 3873173533343384994, guid: 5927f9ecadab8f84dae9bcff3957617c, type: 3}
-    - time: 1
+    - time: 1.0166667
       value: {fileID: 6176286551769241077, guid: 5927f9ecadab8f84dae9bcff3957617c, type: 3}
     - time: 1.1666666
       value: {fileID: -929617247191899992, guid: 5927f9ecadab8f84dae9bcff3957617c, type: 3}
